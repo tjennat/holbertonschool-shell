@@ -1,1 +1,1 @@
-Beginning shell project# holbertonschool-shell
+Beginning shell project
