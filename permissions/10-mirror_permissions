@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --reference=reference_hello olleh
+sudo --reference=reference_hello olleh
