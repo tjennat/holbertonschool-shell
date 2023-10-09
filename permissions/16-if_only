@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo shown vincent hello if guillaume
+sudo chown vincent hello --from guillaume
