@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp -R vincent:staff:_hello symlink
+chown -h vincent:staff _hello 
